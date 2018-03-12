@@ -1,0 +1,10 @@
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\bin\Debug\LDPG_VISOR.exe.config
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\bin\Debug\LDPG_VISOR.exe
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\bin\Debug\LDPG_VISOR.pdb
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\obj\Debug\LDPG_VISOR.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\obj\Debug\LDPG_VISOR.Form1.resources
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\obj\Debug\LDPG_VISOR.Properties.Resources.resources
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\obj\Debug\LDPG_VISOR.csproj.GenerateResource.Cache
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\obj\Debug\LDPG_VISOR.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\obj\Debug\LDPG_VISOR.exe
+C:\Users\Daniel Pérez.LAPTOP-RHL1CGVU\source\repos\LDPG_VISOR\LDPG_VISOR\obj\Debug\LDPG_VISOR.pdb
